@@ -1,0 +1,14 @@
+Package: com.squ1dd13.cleo
+Name: CLEO
+Version: 2.6.0
+Architecture: iphoneos-arm
+Description: All-in-one modloader for GTA:SA on iOS.
+Maintainer: Squ1dd13
+Author: Sq1dd13
+Section: Tweak
+Depends: mobilesubstrate
+Filename: deb/cleo.deb
+Size: 3025584
+MD5sum: d7031b16115999ef1563a9a4d522c44c
+SHA1: 5b8b999bea68468d63f294fbe6e73c413e5493ac
+SHA256: ce705d9187e9a9a773291042722eb79140708f5688ffdbf5f38172c51e2430da

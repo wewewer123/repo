@@ -1,0 +1,8 @@
+Origin: Squ1dd13
+Label: CLEO
+Suite: stable
+Version: 2.6.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Cleo on iOS!
